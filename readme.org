@@ -1,7 +1,7 @@
 
 
 * ori's public profile
-** bootstraping
+** bootstrapping
 *** build
 #+BEGIN_SRC shell
   sh ./ori-build.prod.sh
@@ -12,4 +12,4 @@
 #+BEGIN_SRC shell
   # commit format ./ori-git.auto-commit.sh commit-msg
   sh ./ori-git.auto-commit.sh
-#+END_SRC 
+#+END_SRC
