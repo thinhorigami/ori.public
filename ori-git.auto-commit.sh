@@ -1,5 +1,7 @@
 
+echo "commit message $@"
+
 git add .
 git status
-git commit -m "$0"
+git commit -m "\$@"
 git push origin
